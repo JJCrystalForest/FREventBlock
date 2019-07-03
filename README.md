@@ -4,7 +4,7 @@
 
 使用方法：
 
-```
+```objc
 #import "UIButton+FRButtonEventBlock.h"
 
 self.aButton.fr_touchUpInside = ^{
